@@ -1,7 +1,7 @@
 # Free Student Developer Resources 💸
 
 ## General
-[**GitHub Education Student Developer Pack**]((https://education.github.com/pack))
+[**GitHub Education Student Developer Pack**](https://education.github.com/pack)
     - Offers a variety of tools and resources for free, which includes free private repositories and tools/services from other partners.
 
 ## Cloud
